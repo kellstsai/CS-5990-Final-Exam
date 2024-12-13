@@ -62,11 +62,11 @@ public class Infected {
 		
 		// Attempt recovery based on the gamma rate
 		
-        recover();
+        //recover();
         // Increment the time step
 
         // Stop the simulation after maxTicks
-        if (getInfectedCount() == 0) {
+        if (getInfectedCount() == 500) {
             stopSimulation();
         }
 		

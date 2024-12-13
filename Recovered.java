@@ -24,5 +24,3 @@ public class Recovered {
 
     // No need for a recover method here, as recovery is handled in the Infected class
 }
-
-
